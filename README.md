@@ -1,6 +1,7 @@
 # Todolist
 Git - Laying the Foundation
 
+
 ## Edgar's To Do 
 
 ### Learn about
@@ -14,3 +15,4 @@ Git - Laying the Foundation
 
 
 #### Angular? React? 
+
